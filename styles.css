@@ -28,3 +28,13 @@ margin-bottom: 20px;
 .about-us {
 text-align: center;
 }
+
+.services {
+background-image: url(/IP3/assets/backgrounds/s_image.jpg);
+background-size: cover;
+color: white;
+text-align:center ;
+padding-bottom: 100px;
+padding-top: 120px;
+}
+
