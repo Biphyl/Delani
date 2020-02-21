@@ -38,3 +38,18 @@ padding-bottom: 100px;
 padding-top: 120px;
 }
 
+.what-we-do {
+text-align: center;
+}
+
+.portfolio {
+text-align: center;
+}
+.row {
+margin-left: 0px;
+}
+
+.col-md-3 {
+padding-left: -80px;
+}
+
