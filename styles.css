@@ -83,3 +83,10 @@ color: white;
 padding-right: 30px;
 margin-left: -25px;
 }
+.social-icons {
+  margin-left: 420px;
+}
+
+.social-icons img {
+  padding: 10px;
+}
