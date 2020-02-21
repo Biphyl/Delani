@@ -53,3 +53,12 @@ margin-left: 0px;
 padding-left: -80px;
 }
 
+.contact-us {
+background-image: url(/IP3/assets/backgrounds/c_image.jpg);
+background-size: cover;
+color: white;
+text-align: center;
+margin-left: -15px;
+margin-right: -15px;
+}
+
