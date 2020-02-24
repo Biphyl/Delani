@@ -1,6 +1,6 @@
 
 .welcome {
-background: url(/IP3/assets/backgrounds/h_img.jpg);
+background: url(/Assets-P3/assets/backgrounds/h_img.jpg);
 background-size: cover;
 color: white;
 align-items: center;
@@ -30,7 +30,7 @@ text-align: center;
 }
 
 .services {
-background-image: url(/IP3/assets/backgrounds/s_image.jpg);
+background-image: url(/Assets-P3/assets/backgrounds/s_image.jpg);
 background-size: cover;
 color: white;
 text-align:center ;
@@ -45,6 +45,10 @@ text-align: center;
 .portfolio {
 text-align: center;
 }
+
+.portfolio .row {
+  margin-left: 5px;
+}
 .row {
 margin-left: 0px;
 }
@@ -54,7 +58,7 @@ padding-left: -80px;
 }
 
 .contact-us {
-background-image: url(/IP3/assets/backgrounds/c_image.jpg);
+background-image: url(/Assets-P3/assets/backgrounds/c_image.jpg);
 background-size: cover;
 color: white;
 text-align: center;
@@ -89,4 +93,9 @@ margin-left: -25px;
 
 .social-icons img {
   padding: 10px;
+}
+
+.social-icons p {
+  text-align: center;
+  margin-left: -420px;
 }
