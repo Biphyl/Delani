@@ -1,4 +1,6 @@
-
+body {
+  overflow-x: hidden;
+}
 .welcome {
 background: url(images/backgrounds/h_img.jpg);
 background-size: cover;
@@ -45,8 +47,8 @@ text-align: center;
 .portfolio {
 text-align: center;
 }
-.row {
-margin-left: 0px;
+.portfolio .row {
+margin-left: 40px;
 }
 
 .col-md-3 {
@@ -90,3 +92,4 @@ margin-left: -25px;
 .social-icons img {
   padding: 10px;
 }
+
