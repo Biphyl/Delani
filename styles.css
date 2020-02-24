@@ -93,3 +93,6 @@ margin-left: -25px;
   padding: 10px;
 }
 
+.paragraph1 , .paragraph2, .paragraph3 {
+  display: none;
+}
