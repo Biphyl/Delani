@@ -22,5 +22,5 @@ $(document).ready(function(){
     if (name == "" || email == "" || message == ""){
       alert ("enter your name, email and a commment")
     }
-     else alert( name + " ,we have received your message. Thank you for reaching out to us. ")
+     else alert( name + " ,your message is well received");
   }
