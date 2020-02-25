@@ -3,7 +3,7 @@
 ## Description
 This is a website about Delani Studio that explains about the studio and the kind of services that they offer to their clients.
 ## Setup/Installation Requirements
-
+To have this website, git clone on it and then you can contribute on it.
 
 ## Technologies Used
 * HTML - for the layout of the webpgw
