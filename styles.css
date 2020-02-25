@@ -1,4 +1,6 @@
-
+body {
+  overflow-x: hidden;
+}
 .welcome {
 background: url(images/backgrounds/h_img.jpg);
 background-size: cover;
@@ -45,12 +47,8 @@ text-align: center;
 .portfolio {
 text-align: center;
 }
-
 .portfolio .row {
-  margin-left: 5px;
-}
-.row {
-margin-left: 0px;
+margin-left: 40px;
 }
 
 .col-md-3 {
@@ -69,13 +67,13 @@ margin-right: -15px;
 .message {
 padding-bottom: 200px;
 }
-.forms input {
+input {
 background: transparent;
 border: 1px solid white;
 width: 400px;
 }
 
-.forms textarea {
+textarea {
 background: transparent;
 border: 1px solid white;
 }
@@ -95,10 +93,17 @@ margin-left: -25px;
   padding: 10px;
 }
 
-.social-icons p {
-  text-align: center;
-  margin-left: -420px;
-}
-.p3{
+.paragraph1 , .paragraph2, .paragraph3 {
   display: none;
+}
+
+.project1, .project2, .project3, .project4, .project5, .project6, .project7, .project8, p {
+  display: none;
+  position: absolute;
+  top: 50%;
+  font-size: 1.5em;
+  padding:15px 15px;
+  left: 50%;
+  color: white;
+  background-color: gray;
 }
