@@ -86,7 +86,7 @@ $(document).ready(function(){
     var email = document.getElementById("email").value;
     var message = document.getElementById("message").value;
     if (name == "" || email == "" || message == ""){
-      alert ("enter your name, email and a commment")
+      alert ("Please enter your name, email and add a commment!")
     }
-     else alert( name + " ,your message is well received");
+     else alert( name + " ,thanks for your message, it is well received.");
   }
